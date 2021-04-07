@@ -1,1 +1,0 @@
-web: beego_test
