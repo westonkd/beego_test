@@ -1,0 +1,1 @@
+web: bin/beego_test
