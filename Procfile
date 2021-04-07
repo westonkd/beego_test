@@ -1,1 +1,1 @@
-web: bin/beego_test
+web: beego_test
